@@ -1,0 +1,39 @@
+Programming
+
+Server-side Programming
+
+Server-side programming, is the general name for the kinds of programs which are run on the Server.
+
+Uses
+
+Process user input.
+Display pages.
+Structure web applications.
+Interact with permanent storage (SQL, files).
+Example Languages
+
+PHP
+Python
+ASP.Net in C#, C++, or Visual Basic.
+Nearly any language (C++, C#, Java). These were not designed specifically for the task, but are now often used for application-level web services.
+
+
+Client-side programming
+
+Much like the server-side, Client-side programming is the name for all of the programs which are run on the Client.
+
+Uses
+
+Make interactive webpages.
+Make stuff happen dynamically on the web page.
+Interact with temporary storage, and local storage (Cookies, localStorage).
+Send requests to the server, and retrieve data from it.
+Provide a remote service for client-side applications, such as software registration, content delivery, or remote multi-player gaming.
+Example languages
+
+JavaScript (primarily)
+HTML*
+CSS*
+Any language running on a client device that interacts with a remote service is a client-side language.
+
+QEYD*HTML and CSS aren't really "programming languages" per-se. They are markup syntax by which the Client renders the page for the User.
